@@ -1,6 +1,6 @@
 In this project we intend to create a simple Text Editor program and implement Auto-Complete feature using **Trie** data structure.
 
-![simple menu](menu.png)
+![simple menu](image/menu.png)
 
 ## Features
 
